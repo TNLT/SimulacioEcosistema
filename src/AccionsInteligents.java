@@ -8,7 +8,6 @@ public  class AccionsInteligents {
     }
 
 
-
     public static Vector<Animal> Visio(Vector2 origen, Mon monActual){
         return new Vector<Animal>();
     }
